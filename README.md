@@ -11,8 +11,10 @@
 From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/simonnepinto/Chat-application-in-tkinter.git
+# Fork the Repository
+
+# Clone this repository in Git Bash
+$ git clone https://github.com/srish283/Chat-application-in-tkinter.git
 
 # Go into the repository
 $ cd Chat-application-in-tkinter
